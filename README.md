@@ -3,7 +3,7 @@
 A **Text-to-Speech Converter** built using **HTML**, **CSS**, and **JavaScript**. This project uses the **Web Speech API** to convert text into spoken words and allows users to **choose from multiple voices** for a personalized experience. Perfect for beginners to learn **JavaScript**, **DOM manipulation**, and **browser APIs**.
 
 ## Live Demo  
-🔗 **[Click here to try the project](https://USERNAME.github.io/text-to-speech-converter/)**  
+🔗 **[Click here to try the project](https://jasnafathim.github.io/Text-to-Speech/)**  
 
 ## Screenshot  
 ![Text-to-Speech Converter](Text-to-speech.png)
@@ -21,12 +21,6 @@ A **Text-to-Speech Converter** built using **HTML**, **CSS**, and **JavaScript**
 - **CSS3**   
 - **JavaScript (ES6)**   
 - **Web Speech API**   
-
-## Project Structure  
-text-to-speech/
-│── index.html # HTML structure
-│── style.css # Styling and layout
-│── script.js # Speech synthesis functionality
 
 ## How It Works  
 1. Users type text in the **input box**  
